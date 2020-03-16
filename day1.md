@@ -116,6 +116,7 @@ questions__ during final presentation. 20%
 - [ ] (IL) leader sends notification (before Thu, 19 March) to @manuelclavel about: 
     * team leader
     * members
+    * sub-teams
  
 2. Version control: Git repository
 [git](https://guides.github.com/activities/hello-world/)
@@ -134,7 +135,10 @@ the members of his/her team.
 -  [ ] Learn Markdown language: 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
+## Homework (before Thu, 19 March)
+- [ ] Send by email to @manuelclavel a file (written using the Markdown language)
+with the points (if any) in the initial lists of requirements that, in their opinion,
+are in need of further clarification. 
 
 ## ANNEX
 ### Teams
