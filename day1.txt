@@ -1,10 +1,17 @@
-* Organization
+# Day 1
+## Organization
+1. Groups
+2. Version control: Git repository
+3. Markdown language (readme, notes, etc.)
+[Markdown](https://guides.github.com/features/mastering-markdown/)
 
-* Groups
 
+## Groups
+ 
 
-* Git 
+## Version control: Git repository
 
-** public repository
-***  clone with https
+### clone with https
+
+```unix
 git clone https://github.com/manuelclavel/vgupe2020.git
