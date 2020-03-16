@@ -1,26 +1,26 @@
 # Day 1
 ## Organization
 1. Groups
-[ ] @manuelclavel communicates team distribution
-[ ] @manuelclavel checks that interim leader (IL) is participating.
-[ ] (IL) leader sends notification to @manuelclavel about: 
+- [ ] @manuelclavel communicates team distribution
+- [ ] @manuelclavel checks that interim leader (IL) is participating.
+- [ ] (IL) leader sends notification to @manuelclavel about: 
     * team leader
     * members
  
 2. Version control: Git repository
 [git](https://guides.github.com/activities/hello-world/)
 
-[ ] Each student creates his/her own github account.
-[ ] Team leader sends to @manuelclavel the github usernames of 
+- [ ] Each student creates his/her own github account.
+- [ ] Team leader sends to @manuelclavel the github usernames of 
 the members of his/her team.
-[ ] @manuelclavel Create private repositories for each team.
-[ ] @manuelclavel will have access to the private repositories of each team.
+- [ ] @manuelclavel Create private repositories for each team.
+- [ ] @manuelclavel will have access to the private repositories of each team.
 
 
 3. Documentation: Markdown language [Compulsory]
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[ ] Learn Markdown language: 
+-  [ ] Learn Markdown language: 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 4. Evaluation
