@@ -4,8 +4,31 @@
 - [ ] @manuelclavel comments the description of the module
   * Project
   * Teamwork
-  * __online___: teaching, but also teamwork.
+  * __online__: teaching, but also teamwork.
 
+## Project
+### Description
+* A mobile app (for Android and iOS) for booking online badminton courts
+### Current situation
+* A town has several public sport centres.
+* Each sport centre has several badminton courts
+* All the sport centres have the same operating hours: 7am to 9pm,
+7-days a week, all year round.
+* Badminton courts can be currently booked in advanced by calling. 
+### Client
+* Town 
+### Client requirements
+
+
+
+## Evaluation
+- __Project__ [functionality and other quality-related features]. 
+Based on final oral presentation. Time for
+each subteam/task.  40% 
+- __Project report__. Based on final document. Sections for each
+subteam/tasks 40%
+- __Individual contribution__. Based on __Github activity__, and __individual
+questions__ during final presentation. 20%
 
 ## Organization
 1. Groups
@@ -32,11 +55,11 @@ the members of his/her team.
 -  [ ] Learn Markdown language: 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-4. Evaluation
 
 
-## Teams
-### TeamA
+## ANNEX
+### Teams
+#### TeamA
 1. (L) Đặng Kim Bảo 
 2. Bùi Xuân Phước 
 3. Hoàng Văn Thiên 
@@ -45,7 +68,7 @@ the members of his/her team.
 6. Lê Minh Thư 
 7. Tạ Thị Phương Liên 
 
-### TeamB
+#### TeamB
 
 1. (L) Trương Minh Hiếu 
 2. Huỳnh Quang Phước Thịnh 
@@ -55,7 +78,7 @@ the members of his/her team.
 6. Trần Hữu Lê Huy
 7. Phan Nhật Nguyên
 
-### TeamC
+#### TeamC
 
 1. (IL) Hoàng Xuân Bắc
 2. Nguyễn Bảo Duy 
@@ -65,7 +88,7 @@ the members of his/her team.
 6. Đoàn Hoàng Tuấn
 7. Đặng Chí Công
 
-### TeamD
+#### TeamD
 
 1. (IL) Phạm Gia Bảo
 2. Vũ Đức Hải
@@ -75,7 +98,7 @@ the members of his/her team.
 6. Trần Nguyễn Quang Huy
 7. Nguyễn Quỳnh Hương
 
-### TeamE
+#### TeamE
 
 1. (IL) Nguyễn Tiến Đạt
 2. Lê Đình Trung Hiếu
@@ -85,7 +108,7 @@ the members of his/her team.
 6. Đinh Hà Nguyên
 7. Trần Minh Long 
 
-### TeamF
+#### TeamF
 
 1. (IL) Nguyễn Tất Đạt
 2. Nguyễn Minh Hoàng
@@ -105,12 +128,3 @@ the members of his/her team.
 git clone https://github.com/manuelclavel/vgupe2020.git
 ```
 
-## Evaluation
-
-- Project [functionality and other quality-related features]. 
-Based on final oral presentation. Time for
-each subteam/task.  40% 
-- Project report. Based on final document. Sections for each
-subteam/tasks 40%
-- Individual contribution. Based on Github activity, and individual
-questions during final presentation. 20%
