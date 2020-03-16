@@ -121,6 +121,12 @@ questions__ during final presentation. 20%
 2. Version control: Git repository
 [git](https://guides.github.com/activities/hello-world/)
 
+- [ ] @manuelclavel presents the module public git repository:
+
+   -  clone with https
+```unix
+git clone https://github.com/manuelclavel/vgupe2020.git
+```
 - [ ] Each student creates his/her own github account.
 - [ ] Team leader sends (before Thu, 19 March) 
 to @manuelclavel the github usernames of 
@@ -142,7 +148,7 @@ are in need of further clarification.
 
 ## ANNEX
 ### Teams
-#### TeamA
+#### TeamA (7)
 1. (L) Đặng Kim Bảo 
 2. Bùi Xuân Phước 
 3. Hoàng Văn Thiên 
@@ -151,7 +157,7 @@ are in need of further clarification.
 6. Lê Minh Thư 
 7. Tạ Thị Phương Liên 
 
-#### TeamB
+#### TeamB (1-4)
 
 1. (L) Trương Minh Hiếu 
 2. Huỳnh Quang Phước Thịnh 
@@ -161,35 +167,34 @@ are in need of further clarification.
 6. Trần Hữu Lê Huy
 7. Phan Nhật Nguyên
 
-#### TeamC
+#### TeamC (1-6)
 
-1. (IL) Hoàng Xuân Bắc
-2. Nguyễn Bảo Duy 
-3. Huỳnh Đức Khải
-4. Lưu Nguyễn Phát
-5. Đinh Quý Trí Thông
-6. Đoàn Hoàng Tuấn
-7. Đặng Chí Công
+1. Huynh Duc Khai
+2. Nguyen Quy Minh
+3. Pham Gia Bao
+4. Nguyen Cuong Phat
+5. Le Dinh Trung Hieu
+6. Vo Le Tung 
+7. Hoàng Xuân Bắc
 
-#### TeamD
-
-1. (IL) Phạm Gia Bảo
-2. Vũ Đức Hải
-3. Lữ Minh Khương
-4. Nguyễn Cường Phát
-5. Ngô Minh Thông
-6. Trần Nguyễn Quang Huy
-7. Nguyễn Quỳnh Hương
+### TeamD 
+1. (IL) Nguyễn Bảo Duy 
+2. Lưu Nguyễn Phát
+3. Đinh Quý Trí Thông
+4. Đoàn Hoàng Tuấn
+5. Đặng Chí Công
+6. Vũ Đức Hải
+7. Lữ Minh Khương
 
 #### TeamE
+1. (IL) Ngô Minh Thông
+2. Trần Nguyễn Quang Huy
+3. Nguyễn Quỳnh Hương
+4. Nguyễn Tiến Đạt
+5. Tường Duy Tân 
+6. Tô Trần Nhật Trường
+7. Đinh Hà Nguyên
 
-1. (IL) Nguyễn Tiến Đạt
-2. Lê Đình Trung Hiếu
-3. Nguyễn Quý Minh
-4. Tường Duy Tân 
-5. Tô Trần Nhật Trường
-6. Đinh Hà Nguyên
-7. Trần Minh Long 
 
 #### TeamF
 
@@ -197,17 +202,10 @@ are in need of further clarification.
 2. Nguyễn Minh Hoàng
 3. Nguyễn Trí Nguyên
 4. Nguyễn Toàn Thắng
-5. Võ Lê Tùng
-6. Đào Thiện Tước
-7. Nguyễn Hoàng Quân
-8. Bùi Nguyễn Mai Trúc
- 
+5. Đào Thiện Tước
+6. Nguyễn Hoàng Quân
+7. Bùi Nguyễn Mai Trúc
+8. Trần Minh Long  
 
-## Version control: Git repository
 
-### clone with https
-
-```unix
-git clone https://github.com/manuelclavel/vgupe2020.git
-```
 
