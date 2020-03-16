@@ -7,7 +7,6 @@
   * __online__: teaching, but also teamwork.
 
 ## Project
-- [ ] 
 
 ### Client
 * Consortium of local/city governments
@@ -146,6 +145,14 @@ the members of his/her team.
 with the points (if any) in the initial lists of requirements that, in their opinion,
 are in need of further clarification. 
 
+## Additional recommended activities
+- [ ] Get familiar with Git. 
+- [ ] Depending on your sub-team/task,  start getting familiar with:
+Swift,  Kotlin/Java, or  SQL. 
+- [ ] Depending on your sub-team/task, set up & configure in your laptop/desktop 
+your favorite IDE for iOS or Android development.
+
+
 ## ANNEX
 ### Teams
 #### TeamA (7)
@@ -177,7 +184,7 @@ are in need of further clarification.
 6. Vo Le Tung 
 7. Hoàng Xuân Bắc
 
-### TeamD 
+#### TeamD 
 1. (IL) Nguyễn Bảo Duy 
 2. Lưu Nguyễn Phát
 3. Đinh Quý Trí Thông
