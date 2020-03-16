@@ -2,9 +2,10 @@
 ## Organization
 1. Groups
 2. Version control: Git repository
-3. Markdown language (readme, notes, etc.)
+[git](https://guides.github.com/activities/hello-world/)
+3. Documentation: Markdown language [Compulsory]
 [Markdown](https://guides.github.com/features/mastering-markdown/)
-
+4. Evaluation
 
 ## Teams
 ### TeamA
@@ -44,3 +45,6 @@
 
 ```unix
 git clone https://github.com/manuelclavel/vgupe2020.git
+
+## Evaluation
+
