@@ -56,7 +56,7 @@ the state of the booking (from unpaid to paid and vice versa).
 ## Architecture
 
 * Three-tier architecture 
-- From Wikipedia:
+  - From Wikipedia:
 > Three-tier architecture is a __client-server__
 > software architecture pattern in which the user interface
 > (__presentation__), functional process logic (__"business rules"__), computer
@@ -76,7 +76,27 @@ the state of the booking (from unpaid to paid and vice versa).
 > tier may be multitiered itself (in which case the overall architecture
 > is called an "n-tier architecture").
 
-![Three-tier architecture](/images/3-tier.png)
+[Three-tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture#/media/File:Overview_of_a_three-tier_application_vectorVersion.svg)
+
+* Technologies (Required)
+  - Presentation tier: Swift (iOS app), Katlin (Android app)
+  - Logic tier: Java 
+  - Data tier: MySQL
+
+* IDE (Suggested)
+  - Xcode for iOS development (it requires more than 4GB RAM)
+  - Android Studio for Android development (it requires more than 4GB RAM)
+
+## Teams
+* Project Leader (1)
+  - Coordination. Planning. Monitoring. Risk management. 
+  - Testing.
+  - Documentation.
+* Presentation tier 
+  - iOS app (2)
+  - Android app (2)
+* Logic tier (1)
+* Data tier (1)
 
 ## Evaluation
 - __Project__ [functionality and other quality-related features]. 
