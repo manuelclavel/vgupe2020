@@ -7,40 +7,41 @@
   * __online__: teaching, but also teamwork.
 
 ## Project
-### Description
-* A mobile app (for Android and iOS) for booking online badminton courts
 ### Client
 * Consortium of local/city governments
-### Client requirements
+### Basic Description
+* A mobile app (for Android and iOS) for booking online badminton courts
+
+### Client (initial) requirements
 
 * General information/constraints:
-- Cities can have several public sport centres.
-- Each sport centre can have several badminton courts
-- Sport centres have the same operating hours: 7am to 9pm,
-- Badminton courts can be booked  either for 45 minutes, 1 hour, 1h 15 minutes
+  - Cities can have several public sport centres.
+  - Each sport centre can have several badminton courts
+  - Sport centres have the same operating hours: 7am to 9pm,
+   - Badminton courts can be booked  either for 45 minutes, 1 hour, 1h 15 minutes
 or 1h 30 minutes. within the operating hours, 7-days a week, all year round.
-- A user can not book more than 3 badminton courts (in total) in advance.
-- No online payment. Payment is made at the sport centres
-- If there are past booking  pending of payment, no booking in advance is allowed.
-- A user can cancel any booking, but at least 24 hours before the start-time of the booking.
+   - A user can not book more than 3 badminton courts (in total) in advance.
+   - No online payment. Payment is made at the sport centres
+   - If there are past booking  pending of payment, no booking in advance is allowed.
+   - A user can cancel any booking, but at least 24 hours before the start-time of the booking.
 Cancel a booking does have any cost (free cancelling).
  
 * Main functionality:
 * For users/badminton players:
-- Upon selecting a city (within the consortium) and a date, 
+   - Upon selecting a city (within the consortium) and a date, 
 the user can see all the __slots__ 
 (i.e., badminton-court; slot-start-time; slot-end-time)
 in all the sport centres in the city. Then,  
 upon selecting an available slot, the user can make a __booking__, indicating 
 the start-time and end-time of the booking, 
 within the start-time and end-time of the slot.
-- Upon selecting a city (within the consortium) and a date, 
+   - Upon selecting a city (within the consortium) and a date, 
 the user can see all his/her bookings for that date, in all the sport centres
 in the city. Then, upon selecting a booking, the user can cancel it (but 
 at least 24 hours before the booking-start-time).
 
 * For sport-centres/staff:
-- Upon selecting a date, the staff in charge can see all the bookings
+   - Upon selecting a date, the staff in charge can see all the bookings
 for that date. Then, upon selecting a booking the staff can see:
 the name of the user who made the booking, 
 the booking's badminton-court, start-time, and end-time),
