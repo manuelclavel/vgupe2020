@@ -103,6 +103,7 @@ the members of his/her team.
 
 ```unix
 git clone https://github.com/manuelclavel/vgupe2020.git
+```
 
 ## Evaluation
 
