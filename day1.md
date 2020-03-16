@@ -7,12 +7,14 @@
   * __online__: teaching, but also teamwork.
 
 ## Project
+- [ ] 
+
 ### Client
 * Consortium of local/city governments
 ### Basic Description
 * A mobile app (for Android and iOS) for booking online badminton courts
 
-### Client (initial) requirements
+### Initial requirements
 
 * General information/constraints:
   - Cities can have several public sport centres.
@@ -39,7 +41,7 @@ within the start-time and end-time of the slot.
      - Upon selecting a city (within the consortium) and a date, 
 the user can see all his/her bookings for that date, in all the sport centres
 in the city. Then, upon selecting a booking, the user can cancel it (but 
-at least 24 hours before the booking-start-time).
+it must be done at least 24 hours before the booking-start-time).
 
   * For sport-centres/staff:
     - Upon selecting a date, the staff in charge can see all the bookings
@@ -50,6 +52,31 @@ and the state of the booking
 (paid/unpaid). Also, upon selecting a booking the staff can change
 the state of the booking (from unpaid to paid and vice versa).
 
+
+## Architecture
+
+* Three-tier architecture 
+- From Wikipedia:
+> Three-tier architecture is a __client-server__
+> software architecture pattern in which the user interface
+> (__presentation__), functional process logic (__"business rules"__), computer
+> __data storage__ and __data access__ are developed and maintained as
+> independent modules, most often on separate platforms.
+
+> Apart from the usual advantages of __modular__ software with well-defined
+> __interfaces__, the three-tier architecture is intended to allow any of
+> the three tiers to be upgraded or replaced independently in response
+> to __changes__ in requirements or technology. (...) 
+
+> Typically, the user interface runs on a desktop PC or workstation and
+> uses a standard graphical user interface, functional process logic
+> that may consist of one or more separate modules running on a
+> workstation or application server, and an RDBMS on a database server
+> or mainframe that contains the computer data storage logic. The middle
+> tier may be multitiered itself (in which case the overall architecture
+> is called an "n-tier architecture").
+
+![Three-tier architecture](/images/3-tier.png)
 
 ## Evaluation
 - __Project__ [functionality and other quality-related features]. 
