@@ -79,7 +79,7 @@ the state of the booking (from unpaid to paid and vice versa).
 [Three-tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture#/media/File:Overview_of_a_three-tier_application_vectorVersion.svg)
 
 * Technologies (Required)
-  - Presentation tier: Swift (iOS app), Katlin (Android app)
+  - Presentation tier: Swift (iOS app), Kotlin (Android app)
   - Logic tier: Java 
   - Data tier: MySQL
 
@@ -90,8 +90,10 @@ the state of the booking (from unpaid to paid and vice versa).
 ## Teams
 * Project Leader (1)
   - Coordination. Planning. Monitoring. Risk management. 
-  - Testing.
-  - Documentation.
+  - __Testing__: 
+    - Functionality: test cases and scenarios, for each tier.
+    - Integration. 
+  - __Documentation__.
 * Presentation tier 
   - iOS app (2)
   - Android app (2)
