@@ -27,22 +27,22 @@ or 1 hour and 30 minutes, within the operating hours, 7-days a week, all year ro
 at least 24 hours before the start-time of the booking.
 
  
-* Main functionality:
-** For users/badminton players:
-   - Upon selecting a city (within the consortium) and a date, 
+* Main functionality
+  * For users/badminton players:
+    - Upon selecting a city (within the consortium) and a date, 
 the user can see all the __slots__ 
 (i.e., badminton-court; slot-start-time; slot-end-time)
 in all the sport centres in the city. Then,  
 upon selecting an available slot, the user can make a __booking__, indicating 
 the start-time and end-time of the booking, 
 within the start-time and end-time of the slot.
-   - Upon selecting a city (within the consortium) and a date, 
+     - Upon selecting a city (within the consortium) and a date, 
 the user can see all his/her bookings for that date, in all the sport centres
 in the city. Then, upon selecting a booking, the user can cancel it (but 
 at least 24 hours before the booking-start-time).
 
-** For sport-centres/staff:
-   - Upon selecting a date, the staff in charge can see all the bookings
+  * For sport-centres/staff:
+    - Upon selecting a date, the staff in charge can see all the bookings
 for that date. Then, upon selecting a booking the staff can see:
 the name of the user who made the booking, 
 the booking's badminton-court, start-time, and end-time),
