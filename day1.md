@@ -1,9 +1,17 @@
 # Day 1
+## Introduction
+1. Module description
+- [ ] @manuelclavel comments the description of the module
+  * Project
+  * Teamwork
+  * __online___: teaching, but also teamwork.
+
+
 ## Organization
 1. Groups
 - [ ] @manuelclavel communicates team distribution
 - [ ] @manuelclavel checks that interim leader (IL) is participating.
-- [ ] (IL) leader sends notification to @manuelclavel about: 
+- [ ] (IL) leader sends notification (before Thu, 19 March) to @manuelclavel about: 
     * team leader
     * members
  
@@ -11,9 +19,10 @@
 [git](https://guides.github.com/activities/hello-world/)
 
 - [ ] Each student creates his/her own github account.
-- [ ] Team leader sends to @manuelclavel the github usernames of 
+- [ ] Team leader sends (before Thu, 19 March) 
+to @manuelclavel the github usernames of 
 the members of his/her team.
-- [ ] @manuelclavel Create private repositories for each team.
+- [ ] @manuelclavel creates private repositories for each team.
 - [ ] @manuelclavel will have access to the private repositories of each team.
 
 
@@ -97,3 +106,10 @@ git clone https://github.com/manuelclavel/vgupe2020.git
 
 ## Evaluation
 
+- Project [functionality and other quality-related features]. 
+Based on final oral presentation. Time for
+each subteam/task.  40% 
+- Project report. Based on final document. Sections for each
+subteam/tasks 40%
+- Individual contribution. Based on Github activity, and individual
+questions during final presentation. 20%
