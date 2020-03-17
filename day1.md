@@ -156,9 +156,9 @@ your favorite IDE for iOS or Android development.
 ## ANNEX
 ### Teams
 #### TeamA (7)
-1. (L) Đặng Kim Bảo 
+1. (L) Hoàng Văn Thiên 
 2. Bùi Xuân Phước 
-3. Hoàng Văn Thiên 
+3. Đặng Kim Bảo 
 4. Trần Xuân Khôi 
 5. Phạm Nguyễn Thanh An 
 6. Lê Minh Thư 
