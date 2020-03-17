@@ -176,12 +176,12 @@ your favorite IDE for iOS or Android development.
 
 
 #### TeamC (1-6 | 7 random)
-1. Huynh Duc Khai
+1. (L) Vo Le Tung 
 2. Nguyen Quy Minh
 3. Pham Gia Bao
 4. Nguyen Cuong Phat
 5. Le Dinh Trung Hieu
-6. Vo Le Tung 
+6. Huynh Duc Khai
 7. Hoàng Xuân Bắc
 
 #### TeamD (1-7) 
