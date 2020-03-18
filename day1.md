@@ -171,7 +171,7 @@ your favorite IDE for iOS or Android development.
 3. Nguyễn Trần Quang Anh 
 4. Nguyễn Đình Thi 
 5. Đào Thiện Tước
-6. 
+6. Anh Bui Trung 
 7.
 
 
@@ -200,7 +200,7 @@ your favorite IDE for iOS or Android development.
 4. Nguyễn Trí Nguyên                  
 5. Lưu Nguyễn Phát                    
 6. Ngô Minh Thông                     
-7. Lâm Hải Sơn (CS 2016)           
+7. Lâm Hải Sơn            
 
 #### TeamF (random)
 1. (IL) Đinh Quý Trí Thông
