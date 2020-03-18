@@ -203,12 +203,12 @@ your favorite IDE for iOS or Android development.
 7. Lâm Hải Sơn (CS 2016)           
 
 #### TeamF (random)
-1. (IL) Nguyễn Bảo Duy 
-2. Đinh Quý Trí Thông
-3. Đoàn Hoàng Tuấn
-4. Trần Nguyễn Quang Huy
-5. Nguyễn Tiến Đạt
-6. Nguyễn Tất Đạt
+1. (IL) Đinh Quý Trí Thông
+2. Đoàn Hoàng Tuấn
+3. Trần Nguyễn Quang Huy
+4. Nguyễn Tiến Đạt
+5. Nguyễn Tất Đạt
+6.
 7.
 
 #### TeamG (1-6)
@@ -218,7 +218,7 @@ your favorite IDE for iOS or Android development.
 4. Nguyen Cong Dat
 5. Trinh Pham Trung Hieu
 6. Le Ba Khoa
-7. 
+7. Nguyễn Bảo Duy 
 
 
 
