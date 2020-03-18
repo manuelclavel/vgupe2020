@@ -164,15 +164,15 @@ your favorite IDE for iOS or Android development.
 6. Lê Minh Thư 
 7. Tạ Thị Phương Liên 
 
-#### TeamB (1-4 | 5-7 random)
+#### TeamB (1-5 | 6-7 random)
 
 1. (L) Trương Minh Hiếu 
 2. Huỳnh Quang Phước Thịnh 
 3. Nguyễn Trần Quang Anh 
 4. Nguyễn Đình Thi 
-5. Nguyễn Minh Hoàng
-6. Đào Thiện Tước
-7. Bùi Nguyễn Mai Trúc.
+5. Đào Thiện Tước
+6. 
+7.
 
 
 #### TeamC (1-6 | 7 random)
@@ -202,13 +202,22 @@ your favorite IDE for iOS or Android development.
 6. Ngô Minh Thông                     
 7. Lâm Hải Sơn (CS 2016)           
 
-### TeamF (random)
+#### TeamF (random)
 1. (IL) Nguyễn Bảo Duy 
 2. Đinh Quý Trí Thông
 3. Đoàn Hoàng Tuấn
 4. Trần Nguyễn Quang Huy
 5. Nguyễn Tiến Đạt
 6. Nguyễn Tất Đạt
+7.
+
+#### TeamG (1-6)
+1. Tong Minh Hoang
+2. Tran Anh Thu 
+3. Kieu Hoang Khoi
+4. Nguyen Cong Dat
+5. Trinh Pham Trung Hieu
+6. Le Ba Khoa
 7. 
 
 
