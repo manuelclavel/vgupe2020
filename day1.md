@@ -202,14 +202,6 @@ your favorite IDE for iOS or Android development.
 6. Ngô Minh Thông                     
 7. Lâm Hải Sơn            
 
-#### TeamF (random)
-1. (IL) Đinh Quý Trí Thông
-2. Đoàn Hoàng Tuấn
-3. Trần Nguyễn Quang Huy
-4. Nguyễn Tiến Đạt
-5. Nguyễn Tất Đạt
-6.
-7.
 
 #### TeamG (1-6)
 1. Tong Minh Hoang
