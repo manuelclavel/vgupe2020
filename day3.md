@@ -3,7 +3,7 @@
 - [ ] Interfaces: client-server communication; stateless protocol
 - [ ] [Git: workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-## Presentations: Homework #2.1
+## Presentations: Homework #2.1: _Design/describe interfaces [client-server] Presentation-Logic_
 
 ## Discussion: Homework #2.1: _Design/describe interfaces [client-server] Presentation-Logic_
 
