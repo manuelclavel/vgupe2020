@@ -5,17 +5,15 @@
 
 ## Presentations:  Homework #2
 
-### Homework Day2.1: _Design/describe interfaces [client-server] 
-Presentation-Logic_
+### Homework Day 2.1: _Design/describe interfaces [client-server] Presentation-Logic_
 
-* unique identifiers known/agreed upon  by presentation/client and 
+#### Notes
+* unique identifiers known/agreed upon by presentation/client and 
 logic/server: cityId, venueId, courtId, userId/playerId, bookingId, statusId.
 * success/errorCode known/agreed upon by client and server
-* ordering (if any), when response is a list/array
-* structure (if any), when response contains (potentially) structured data.
-* constraints known/agreed upon by client and server: 
-  * each court belongs to exactly one venue; 
-  * each venue belongs to exactly one city;
+* ordering (if any), when response is a list/array, known/agreed upon by client and server
+* structure (if any), when response contains (potentially) structured data,
+known/agreed upon by client and server
 
 #### _getAvailableSlots_
 * __Description__: for a given day and cityId, get all the slots available:
