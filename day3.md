@@ -3,11 +3,11 @@
 - [ ] Interfaces: client-server communication; stateless protocol
 - [ ] [Git: workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-## Presentations:  Homework #2
+## Presentations: Homework #2
 
-### Homework Day 2.1: _Design/describe interfaces [client-server] Presentation-Logic_
+## Discussion: Homework Day 2#1: _Design/describe interfaces [client-server] Presentation-Logic_
 
-#### Notes
+### Notes
 * unique identifiers known/agreed upon by presentation/client and 
 logic/server: cityId, venueId, courtId, userId/playerId, bookingId, statusId.
 * success/errorCode known/agreed upon by client and server
@@ -15,7 +15,7 @@ logic/server: cityId, venueId, courtId, userId/playerId, bookingId, statusId.
 * structure (if any), when response contains (potentially) structured data,
 known/agreed upon by client and server
 
-#### _getAvailableSlots_
+### _getAvailableSlots_
 * __Description__: for a given day and cityId, get all the slots available:
 * __security/caller__: anonymous
 * __request__: getSlots(day, cityId)
@@ -26,7 +26,7 @@ courtSlots is an array of (courtId, slots), where
 slots is an array of (startHour, endHour)
   * __error__: errorCode [Homework #3]
 
-#### _getPlayerBookings_
+### _getPlayerBookings_
 * __Description__: for a given day, city, and playerId, 
 get all the  bookings:
 * __security/caller__: callerId
@@ -38,7 +38,7 @@ courtBookings is an array of (courtId, bookings), where
 bookings is an array of (startHour, endHour)
   * __error__: errorCode [Homework #3]
 
-#### _getVenueBookings_
+### _getVenueBookings_
 * __Description__: for a given day and venueId
 get all the bookings:
 * __security/caller__: callerId
@@ -48,7 +48,7 @@ get all the bookings:
 bookings is an array of (startHour, endHour)
   * __error__: errorCode [Homework #3]
 
-#### _createBooking_
+### _createBooking_
 * __Description__: for a given day, court, start, end, and playerId, 
 create a new booking.
 * __security/caller__: callerId
@@ -57,7 +57,7 @@ create a new booking.
   * __success__: successCode
   * __error__: errorCode [Homework #3]
 
-#### _cancelBooking_
+### _cancelBooking_
 * __Description__: for a given bookingId, cancel the booking
 * __security/caller__: callerId
 * __request__: cancelBooking(bookingId)
@@ -65,7 +65,7 @@ create a new booking.
   * __success__: successCode
   * __error__: errorCode [Homework #3]
 
-#### _getBookingInfo_
+### _getBookingInfo_
 * __Description__: for a given bookingId, get all the booking's
 information: cityId, venueId, courtId, day, start, end, playerId,
 statusId.
@@ -75,7 +75,7 @@ statusId.
   * __success__: successCode
   * __error__: errorCode [Homework #3]
 
-#### _updateBookingPaymentStatus_
+### _updateBookingPaymentStatus_
 * __Description__: for a given bookingId, update the booking's 
 payment status
 * __security/caller__: callerId
@@ -84,7 +84,7 @@ payment status
   * __success__: successCode
   * __error__: errorCode [Homework #3]
 
-#### _getNameCity_/_getNameVenue_/_getNameCourt_/_getNameUser_
+### _getNameCity_/_getNameVenue_/_getNameCourt_/_getNameUser_
 * Description: for a given cityId/venueId/courtId/userId,
 get the corresponding name (to display)
 * security/caller: callerId
@@ -95,7 +95,7 @@ get the corresponding name (to display)
 
 
 
-## Homework
+## Homework #3
 - [ ] Test cases/scenarios [+ errors]: interfaces Presentation-Logic
 - [ ] Review/Update (if needed) design/describe interfaces [client-server] 
 Logic-Data 
