@@ -24,8 +24,11 @@ with a comment (in MySQL) indicating the *expected result*.
 E.g.,
 
 > `/* test 1 */`
+
 > `CALL createCity("Hanoi");`
+
 > `CALL createCity("Hanoi");`
+
 > `/* error: CC001 */`
 
 ## Store procedures ##
