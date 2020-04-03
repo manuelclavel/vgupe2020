@@ -1,4 +1,4 @@
-# Final Homework #1 (Data tier) # 
+# Final Homework Data tier # 
 
 ## Assignment ##
 Create a database for our booking app.
