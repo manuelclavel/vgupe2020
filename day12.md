@@ -38,23 +38,26 @@ The Consortium (client) has decided the following:
 the sport center are closed.
 2. Sport centers can fix their own opening hours,
 for each day of the week. The "default" opening
-hours are still 7am to 21pm, everyday of the week.
+hours are still 7am to 9pm, everyday of the week.
 E.g., "Hanoi#001" opens on Mondays at 7am and closes at 9pm, 
 but on Saturdays it opens at 9am and closes at 11pm.
 "Hanoi#002", on the other hand, 
 opens on Mondays at 6am and close at 8pm, and 
 on Saturdays it follows the "default" schedule:
-that is, from 7am to 21pm.
+that is, from 7am to 9pm.
 3. Sport centers can also fix their own "minimum length-of-playing"
 (i.e, the shortest length of time a player can book).
 E.g., "Hanoi#001" sets as 45 minutes the "minimum length-of-playing",
 while "Hanoi#002" sets as 60 minutes the "minimum length-of-playing".
+4. The "maximum length-of-playing" for all sport centres is
+90 minutes. 
 
 Moreover,
 4. Clients should be able to quickly check/browse:
 - For each sport center, the **applicable holidays**.
 - For each sport center, for each day of the week, the **opening hours**.
-- For each sport center, the "minimum length-of-playing".
+- For each sport center, the "minimum length-of-playing" and the
+"maximum length-of-playing".
 
 ### Task:
 - Adapt your application to the new requirements.
