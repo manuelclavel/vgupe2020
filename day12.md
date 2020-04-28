@@ -1,11 +1,11 @@
 # Day 11
 ## Handbook review
 ### Module description
-#### Total time of contact hours:** 
+#### Total time of contact hours:
 > 60 (40 included in class-room exercises)". 
 - Last week, this week, final day.
 
-#### Module examination**
+#### Module examination
 > Written project report and oral presentation
 ##### Final report
   - Quality Plan: testing
@@ -26,7 +26,7 @@
 >> then the compound behaviors between those, one can build up 
 >> comprehensive tests for complex applications.
 
-#### Type and form of assessment:**
+#### Type and form of assessment:
 >> Successful implementation of task including presentation
 ##### Final project/task
 (see below)
@@ -95,7 +95,7 @@ but it must be done at least 24 hours before the start-time of the booking.
 
 ### Main functionality ###
 
-#### For users/badminton players:####
+#### For users/badminton players:
  - Upon selecting a city (within the consortium) and a date, 
  the user can see all the slots (i.e., badminton-court; 
  slot-start-time; slot-end-time) in all the sport centres in the city. 
