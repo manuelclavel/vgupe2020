@@ -1,4 +1,4 @@
-# Final classroom  exercise #
+# Final classroom  exercise (due on May 5,  2020, at 1pm) #
 ## Problem ##
 The Consortium (client) has decided the following:
 
@@ -39,7 +39,7 @@ make the booking using the selected card.
 "10-booking cards" 
 
 
-# Final project (due May 5, at 8.45am) #
+# Final project (due on May 5, 2020, at 8.45am) #
 ## Basic Description ##
 A mobile app (for Android) for booking online badminton courts
 
